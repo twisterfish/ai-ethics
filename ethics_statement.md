@@ -1,5 +1,5 @@
 
-  ### Edward's AI Ethics Manifesto
+  ### Edward's AI Ethics
   
 
         These are my own words, typed with my own fingers...
